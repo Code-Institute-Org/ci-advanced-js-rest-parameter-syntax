@@ -1,0 +1,1 @@
+# ci-react-006-rest-parameter-syntax
