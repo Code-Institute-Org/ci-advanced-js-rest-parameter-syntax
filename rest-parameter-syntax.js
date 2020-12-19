@@ -1,6 +1,6 @@
 /**
  * To run this file in Gitpod, use the 
- * command node 006-rest-parameter-syntax.js in the terminal
+ * command node rest-parameter-syntax.js in the terminal
  */
 
 // Regular function call 
